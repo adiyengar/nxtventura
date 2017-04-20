@@ -432,7 +432,7 @@ function loadScript() {
     "use strict";
     var script = document.createElement('script');
     script.type = 'text/javascript';
-    script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyB4D5bZAt_ZAyuJ8inc7UjXnVOj20ijfhw&callback=initmap';
+    script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyBDxBANlh-9x0GTo9RRODA8mefk8VKgGv0&callback=initmap';
     document.body.appendChild(script);
 };
 
