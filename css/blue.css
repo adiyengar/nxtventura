@@ -151,7 +151,7 @@ blockquote {
 
 .navbar-default .navbar-header,
 .navbar-inverse .navbar-header {
-    background-color: #1686b4;
+    background-color: rgb(221,221,221);
 }
 .navbar-default .triangle,
 .navbar-inverse .triangle {
